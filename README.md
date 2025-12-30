@@ -21,7 +21,7 @@ A decentralized crowdfunding smart contract built with Foundry that allows users
 
 1. Clone the repository:
 ```shell
-git clone <repository-url>
+git clone git@github.com:mbenyaflah/foundry-fund-me.git
 cd foundry-fund-me
 ```
 
